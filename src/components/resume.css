@@ -1,0 +1,443 @@
+.resume {
+  display: block;
+  height: 100vh;
+  position: relative;
+}
+
+span.cls_004 {
+  font-family: Times, serif;
+  font-size: 13px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_004 {
+  font-family: Times, serif;
+  font-size: 13px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_005 {
+  font-family: Times, serif;
+  font-size: 13.9px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_005 {
+  font-family: Times, serif;
+  font-size: 13.9px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_033 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(4, 98, 193);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: underline;
+}
+
+div.cls_033 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(4, 98, 193);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_007 {
+  font-family: Times, serif;
+  font-size: 30.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_007 {
+  font-family: Times, serif;
+  font-size: 30.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_006 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_006 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_010 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(4, 98, 193);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_010 {
+  font-family: Times, serif;
+  font-size: 14.1px;
+  color: rgb(4, 98, 193);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_008 {
+  font-family: Times, serif;
+  font-size: 14.6px;
+  color: rgb(83, 83, 83);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_008 {
+  font-family: Times, serif;
+  font-size: 14.6px;
+  color: rgb(83, 83, 83);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_009 {
+  font-family: Times, serif;
+  font-size: 14.6px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_009 {
+  font-family: Times, serif;
+  font-size: 14.6px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_011 {
+  font-family: Times, serif;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_011 {
+  font-family: Times, serif;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_015 {
+  font-family: Times, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_015 {
+  font-family: Times, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_014 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_014 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_016 {
+  font-family: Arial, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_016 {
+  font-family: Arial, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_017 {
+  font-family: Arial, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_017 {
+  font-family: Arial, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_018 {
+  font-family: Times, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_018 {
+  font-family: Times, serif;
+  font-size: 12.3px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_002 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_002 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_026 {
+  font-family: Arial, serif;
+  font-size: 18.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_026 {
+  font-family: Arial, serif;
+  font-size: 18.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_019 {
+  font-family: Arial, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_019 {
+  font-family: Arial, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_020 {
+  font-family: Arial, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_020 {
+  font-family: Arial, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_028 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(68, 113, 196);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_028 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(68, 113, 196);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_022 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_022 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_021 {
+  font-family: Times, serif;
+  font-size: 11.2px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_021 {
+  font-family: Times, serif;
+  font-size: 11.2px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+span.cls_023 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+}
+
+div.cls_023 {
+  font-family: Times, serif;
+  font-size: 12.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+}
+
+span.cls_024 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+}
+
+div.cls_024 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(0, 0, 0);
+  font-weight: normal;
+  font-style: italic;
+  text-decoration: none;
+}
+
+span.cls_031 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(68, 113, 196);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+div.cls_031 {
+  font-family: Times, serif;
+  font-size: 11.1px;
+  color: rgb(68, 113, 196);
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+.resume-btn {
+  position: absolute;
+  width: 350px !important;
+  left: 45%;
+  bottom: 65px;
+}
