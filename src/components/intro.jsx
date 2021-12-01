@@ -1,6 +1,7 @@
 import React from "react";
 
 import Typed from "react-typed";
+import ParticalBg from "./particalBg";
 
 class Intro extends React.Component {
   render() {
@@ -10,7 +11,7 @@ class Intro extends React.Component {
         <div id="stars" />
         <div id="stars2" />
         <div id="stars3" />
-
+        <ParticalBg />
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
